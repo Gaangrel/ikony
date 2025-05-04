@@ -15,7 +15,7 @@
     "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/uncertainty%20(1).png",
     "name": "Pewność",
     "team": "townsfolk",
-    "ability": "Raz na dzień możesz zadać jedno pytanie(nie dotyczące roli gracza) bajarzowi, na które ci odpowie, tego dnia stracony zły gracz może nie zginąć."
+    "ability": "Raz na dzień możesz zadać jedno pytanie bajarzowi(bajarz może nie odpowiedzieć), na które ci odpowie, tego dnia stracony zły gracz może nie zginąć."
   },
   {
     "id": "The World",
