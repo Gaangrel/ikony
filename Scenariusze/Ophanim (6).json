@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "author": "",
+    "name": "Ophanim"
+  },
+  "empath",
+  "virgin",
+  "soldier",
+  "grandmother",
+  "clockmaker",
+  "oracle",
+  {
+    "id": "L",
+    "image": "https://whatsyoursign.eu/wp-content/uploads/2017/06/1-871.jpg",
+    "edition": "custom",
+    "firstNight": 10,
+    "firstNightReminder": "Każdej nocy gdy pierwszy raz dobry mieszczanin otrzymuje błędną informacje, otrzymujesz jego poprawną informacje.",
+    "otherNight": 10,
+    "otherNightReminder": "Każdej nocy gdy pierwszy raz dobry mieszczanin otrzymuje błędną informacje, otrzymujesz jego poprawną informacje.",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "L",
+    "team": "townsfolk",
+    "ability": "Każdej nocy gdy pierwszy raz dobry mieszczanin otrzymuje błędną informacje, otrzymujesz jego poprawną informacje."
+  },
+  {
+    "id": "Libra",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/libra.png",
+    "name": "Libra",
+    "firstNight": 4,
+    "firstNightReminder": "Raz na grę w nocy możesz uzyć swojej mocy. Tej nocy wszystkie uzyskiwane informacje będą prawdziwe. Rano wszyscy dowiadują się o tym dobro przegrywa na koniec tego dnia.",
+    "otherNight": 4,
+    "otherNightReminder": "Raz na grę w nocy możesz uzyć swojej mocy. Tej nocy wszystkie uzyskiwane informacje będą prawdziwe. Rano wszyscy dowiadują się o tym dobro przegrywa na koniec tego dnia.",
+    "team": "townsfolk",
+    "ability": "Raz na grę w nocy możesz uzyć swojej mocy. Tej nocy wszystkie uzyskiwane informacje będą prawdziwe. Rano wszyscy dowiadują się o tym dobro przegrywa na koniec tego dnia."
+  },
+  {
+    "id": "Transporter",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/Transporter.png",
+    "otherNight": 2,
+    "otherNightReminder": "Wybierz dwóch gracz do zmiany miejsc",
+    "reminders": [
+      "Transport"
+    ],
+    "name": "Transporter",
+    "team": "townsfolk",
+    "ability": "Co drugiej nocy, wybierz dwóch graczy, zamienią się oni miejscami."
+  },
+  "recluse",
+  {
+    "id": "Jakaś Baba",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/JakaśBaba.png",
+    "name": "Jakaś Baba",
+    "team": "outsider",
+    "ability": "Wydaje ci się że jesteś dziewicą, ale nie jesteś.\nPierwszy Dobry Mieszczanin, który cię nominuje będzie pijany i zatruty najbliższej nocy i następnego dnia."
+  },
+  {
+    "id": "Bezimienny",
+    "image": "https://avatars.fastly.steamstatic.com/d2d29d3c9a15a0aa06c4d14558e9789f96e208b3_full.jpg",
+    "New item": "Ustal mu przynależność",
+    "otherNightReminder": "Zmień drużynę",
+    "name": "Bezimienny",
+    "team": "outsider",
+    "ability": "Każdej nocy, jeśli jesteś dobry stajesz się zły i vice versa."
+  },
+  "spy",
+  "baron",
+  {
+    "id": "Kardynał",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/Kardynał.png",
+    "name": "Kardynał",
+    "team": "minion",
+    "ability": "Zło przegrywa, jeśli ty zginiesz, zło nie przegrywa gdy zginie demon. Jeśli w grze jest 5 lub więcej żywych gracz, jesteś odbierany jako dobry mieszczanin."
+  },
+  {
+    "id": "Ophanim",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/ophanim.png",
+    "firstNight": 3,
+    "otherNight": 3,
+    "name": "Ophanim",
+    "reminders": [
+      "Wybrany"
+    ],
+    "team": "demon",
+    "ability": "Raz na noc* wybierz gracza, następnym razem gdy ten gracz odda głos, natychmiast umiera i jego głos nie liczy się do głosowania."
+  }
+]
