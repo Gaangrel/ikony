@@ -46,7 +46,7 @@
     ],
     "name": "Transporter",
     "team": "townsfolk",
-    "ability": "Co drugiej nocy, wybierz dwóch graczy, zamienią się oni miejscami."
+    "ability": "Co drugą nocy, wybierz dwóch graczy, zamienią się oni miejscami."
   },
   "recluse",
   {
@@ -54,7 +54,7 @@
     "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/JakaśBaba.png",
     "name": "Jakaś Baba",
     "team": "outsider",
-    "ability": "Wydaje ci się że jesteś dziewicą, ale nie jesteś.\nPierwszy Dobry Mieszczanin, który cię nominuje będzie pijany i zatruty najbliższej nocy i następnego dnia."
+    "ability": "Wydaje ci się że jesteś Dziewicą, ale nie jesteś.\nPierwszy dobry Mieszczanin, który cię nominuje będzie pijany i zatruty najbliższej nocy i następnego dnia."
   },
   {
     "id": "Bezimienny",
@@ -84,6 +84,6 @@
       "Wybrany"
     ],
     "team": "demon",
-    "ability": "Raz na noc* wybierz gracza, następnym razem gdy ten gracz odda głos, natychmiast umiera i jego głos nie liczy się do głosowania."
+    "ability": "Każdej noc* wybierz gracza, następnym razem gdy ten gracz odda głos, natychmiast umiera i jego głos nie liczy się do głosowania."
   }
 ]
