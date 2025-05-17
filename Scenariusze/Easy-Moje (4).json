@@ -36,7 +36,7 @@
     "otherNightReminder": "",
     "name": "Pacynka",
     "team": "townsfolk",
-    "ability": "Myślisz, że jesteś sługą, ale nie jesteś. Demon wie kim jesteś i jest przedstawiony jako sługa. Zło nie może wygrać jeśli żyjesz."
+    "ability": "Myślisz, że jesteś sługą, ale nie jesteś. Demon jest przedstawiony jako sługa i gdy zostało 5 lub mniej żywych graczach dowiaduje się kim jesteś. Zło nie może wygrać jeśli żyjesz."
   },
   "tinker",
   "mutant",
