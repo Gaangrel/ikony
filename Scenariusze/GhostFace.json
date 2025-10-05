@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "_meta",
+    "author": "",
+    "name": "GF"
+  },
+  "washerwoman",
+  "librarian",
+  "gossip",
+  "balloonist",
+  "dreamer",
+  "fortuneteller",
+  "general",
+  "acrobat",
+  "highpriestess",
+  "flowergirl",
+  "gambler",
+  "monk",
+  "nightwatchman",
+  "artist",
+  "plaguedoctor",
+  "drunk",
+  "recluse",
+  "butler",
+  "hermit",
+  "baron",
+  "scarletwoman",
+  "devilsadvocate",
+  "marionette",
+  "legion",
+{
+  "id": "GhostFace",
+  "image": "https://wallpapers.com/images/high/red-ghostface-knife-cityscape-artwork-fo5r33gtvv1kdsa8.jpg",
+  "name": "GhostFace",
+  "team": "demon",
+  "ability": "Jeden GF zaczyna grę z nożem, drugi z telefonem.\nKażdej nocy* GF z nożem wybiera gracza, który zginie.(zmienia nóż na telefon)\nKażdej nocy GF z telefonem wybiera gracza, który nie obudzi się ze względu na swoją umiejętność.(Zmienia telefon na nóż)\n[+1 GhostFace, -1 sługa]"
+}
+]
