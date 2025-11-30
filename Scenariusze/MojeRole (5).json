@@ -85,6 +85,16 @@
     "ability": "Każdej nocy* możesz zdecydować by zginąć, jeśli to zrobisz tej nocy nikt inny nie będzi mógł umrzeć."
   },
   {
+    "id": "Klątwa Odludka",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/Uncertainty.png",
+    "name": "Klątwa Odlutka",
+    "team": "outsider",
+    "ability": "Nie wiesz że jesteś Klątwą Odlutka.
+    Myślisz, że jesteś Mieszczaninem,
+    ale możesz być rejestrowany jako zły i jako Sługus lub Demon, nawet po śmierci.
+    "
+  },
+  {
     "id": "Kurtyzana",
     "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/Kurtyzana.png",
     "name": "Kurtyzana",
