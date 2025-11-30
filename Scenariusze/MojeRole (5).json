@@ -138,7 +138,14 @@
     "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/executioner-hood.png",
     "name": "Executioner",
     "team": "outsider",
-    "ability": "Na początku gry dowiadujesz się o gracz, który jest twoim celem. Jeśli twój cel zostanie stracony, wygrywasz niezależnie od tego, która drużyna wygrała."
+    "ability": "Na początku gry dowiadujesz się o graczu, który jest twoim celem. Jeśli twój cel zostanie stracony,  na koniec gry dołączysz do wygrywającej drużyny."
+  },
+  {
+    "id": "Jester",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/executioner-hood.png",
+    "name": "Jester",
+    "team": "outsider",
+    "ability": " Jeśli zostaniesz stracony jeden z mieszczan zmienia się w outsidera i na koniec gry dołączysz do wygrywajacej drużyny."
   },
   {
     "id": "Bezimienny",
