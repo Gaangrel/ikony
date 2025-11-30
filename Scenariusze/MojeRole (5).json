@@ -71,6 +71,34 @@
     "ability": "Co drugiej nocy, wybierz dwóch graczy, zamienią się oni miejscami."
   },
   {
+    "id": "Klątwa Kochanicy",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/uncertainty.png",
+    "name": "Klątwa Kochanicy",
+    "team": "outsider",
+    "ability": "Nie wiesz że jesteś Klątwą Kochanicy. Myślisz, że jesteś Mieszczaninem, ale gdy zginie demon, a żyje co najmniej 5 graczy, jeden ze sług staje się demonem."
+  },
+  {
+    "id": "Klątwa Cukiereczka",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/uncertainty.png",
+    "name": "Klątwa Cukiereczka",
+    "team": "outsider",
+    "ability": "Nie wiesz że jesteś Klątwą Cukiereczka. Myślisz, że jesteś Mieszczaninem, ale gdy zginiesz jeden z mieszczan staje się zatruty."
+  },
+  {
+    "id": "Klątwa Plagi",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/uncertainty.png",
+    "name": "Klątwa Plagi",
+    "team": "outsider",
+    "ability": "Nie wiesz że jesteś Klątwą Plagi. Myślisz, że jesteś Mieszczaninem, ale gdy zginiesz bajarz otrzymuje zdolność sługi."
+  },
+  {
+    "id": "Klątwa Majsterkowicza",
+    "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/uncertainty.png",
+    "name": "Klątwa Majsterkowicz",
+    "team": "outsider",
+    "ability": "Nie wiesz że jesteś Klątwą Majsterkowicza. Myślisz, że jesteś Mieszczaninem, ale możesz zginąć w dowolnym momencie."
+  },
+  {
     "id": "The World",
     "image": "https://raw.githubusercontent.com/Gaangrel/ikony/refs/heads/main/world.png",
     "name": "The World",
